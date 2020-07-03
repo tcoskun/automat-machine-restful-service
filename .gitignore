@@ -3,3 +3,14 @@
 ################################################################################
 
 /AutomatMachine.Api/bin/Debug/netcoreapp3.0
+/AutomatMachine.Api/obj
+*.db
+/AutomatMachine.Common/bin/Debug/netcoreapp3.0
+/AutomatMachine.Common/obj
+/AutomatMachine.Data/bin/Debug/netcoreapp3.0
+/AutomatMachine.Data/obj
+/AutomatMachine.Services/bin/Debug/netcoreapp3.0
+/AutomatMachine.Services/obj
+/AutomatMachine.Test/bin/Debug/netcoreapp3.0
+/AutomatMachine.Test/obj
+/AutomatMachine.Test/AutomatMachine.Test.csproj.user
